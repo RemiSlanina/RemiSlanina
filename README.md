@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Hi, I'm Rem
+- **Junior developer**, self-taught, focused on building practical tools.
+- **Currently working on:** [Relay](https://github.com/RemiSlanina/relay) (communication cards for neurodivergent users).
+- **Learning:** Python, React Native, and foundational backend/data skills.
+- **Interests:** Algorithms, accessible tech, green tech, and small apps that are fun or useful.
+- **Also:** Illustration (Inkscape, Krita) and open-source design tools.
+- **Contact:** remislanina@gmail.com
