@@ -47,12 +47,17 @@ I'm Remi.
 I currently focus on **learning web/mobile dev** and building apps that are fun or useful.
 
 - **Currently working on:**
-  [Base Blocks](https://base-blocks.vercel.app/) (Also playable educational game for number-base conversion)
+  
+  [Base Blocks](https://base-blocks.vercel.app/) (currently playable, educational game for number-base conversion)
+  
   [Relay](https://github.com/RemiSlanina/relay) (communication cards for nonverbal situations, offline-first)
 
 - **Playable Projects:**
+  
   [Memory Game](https://memory-game-chi-tawny.vercel.app/)
+  
   [Purr-Spective: Snarky code reviews](https://remislanina.github.io/purr-spective/)
+  
   [Odds/Evens Game](https://test-sandy-one-88.vercel.app/)
 
 - **Learning:** Python, React/React Native, Java (revisiting), Algorithms, Accessible UI/UX ...
