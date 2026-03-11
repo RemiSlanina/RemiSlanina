@@ -44,27 +44,28 @@ I currently focus on learning and gathering experience with web and mobile dev.
 
 ## Hi there 👋
 I'm Remi.
-I currently focus on **learning web/mobile dev** and building apps that are fun or useful.
+I currently focus on having fun **learning web/mobile dev** and building small useful apps. 
 
 - **Currently working on:**
   
-  [Base Blocks](https://base-blocks.vercel.app/) (currently playable, educational game for number-base conversion)
-  
-  [Relay](https://github.com/RemiSlanina/relay) (communication cards for nonverbal situations, offline-first)
+  [Relay](https://github.com/RemiSlanina/relay) (communication cards for nonverbal situations, offline-first WIP)
 
-- **Playable Projects:**
+- **Small Games/Apps:**
   
-  [Memory Game](https://memory-game-chi-tawny.vercel.app/)
+  [Base Blocks](https://base-blocks.vercel.app/) (educational game for number-base conversion WIP)
   
-  [Purr-Spective: Snarky code reviews](https://remislanina.github.io/purr-spective/)
+  [Memory Game](https://memory-game-chi-tawny.vercel.app/) (small memory demo) 
   
-  [Odds/Evens Game](https://test-sandy-one-88.vercel.app/)
+  [Purr-Spective: Snarky code reviews](https://remislanina.github.io/purr-spective/) (snarky code reviews) 
+  
+  [Odds/Evens Game](https://test-sandy-one-88.vercel.app/) (odds and evens is an old number guessing game for kids) 
 
-- **Learning:** Python, React/React Native, Java (revisiting), Algorithms, Accessible UI/UX ...
-- **Tech Stack:** JavaScript, React/React Native, Python, HTML/CSS, Open-Source Tools
+- **Learning:** Python, React/React Native, Java (revisiting), Algorithms, ...
+- **Familiar With:** JavaScript, HTML/CSS, Open-Source Tools
 - **Interests:** Algorithms, open-source design, and apps with social impact.
 - **Open to:** Collaborations, internships, junior dev roles, or feedback.
 - **Contact:** remislanina@gmail.com
+- **Goal:** Continue with projects, and transition into a junior dev or internship role where I can grow and contribute.
 
 
 
