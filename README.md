@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
-
-
-
 ## Hi there 👋
 I'm Remi.
 I currently focus on learning and gathering experience with web and mobile dev.
@@ -38,4 +34,32 @@ I currently focus on learning and gathering experience with web and mobile dev.
 - **Open to:** Collaborations, internships, or feedback on my projects.
 - **Fun Fact:** I also do illustrations, mostly with open-source design tools.
 - **Contact:** remislanina@gmail.com
+
+-->
+
+
+
+
+
+
+## Hi there 👋
+I'm Remi.
+I currently focus on **learning web/mobile dev** and building apps that are fun or useful.
+
+- **Currently working on:**
+  [Base Blocks](https://base-blocks.vercel.app/) (Also playable educational game for number-base conversion)
+  [Relay](https://github.com/RemiSlanina/relay) (communication cards for nonverbal situations, offline-first)
+
+- **Playable Projects:**
+  [Memory Game](https://memory-game-chi-tawny.vercel.app/)
+  [Purr-Spective: Snarky code reviews](https://remislanina.github.io/purr-spective/)
+  [Odds/Evens Game](https://test-sandy-one-88.vercel.app/)
+
+- **Learning:** Python, React/React Native, Java (revisiting), Algorithms, Accessible UI/UX ...
+- **Tech Stack:** JavaScript, React/React Native, Python, HTML/CSS, Open-Source Tools
+- **Interests:** Algorithms, open-source design, and apps with social impact.
+- **Open to:** Collaborations, internships, junior dev roles, or feedback.
+- **Contact:** remislanina@gmail.com
+
+
 
