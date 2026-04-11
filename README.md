@@ -44,13 +44,14 @@ I currently focus on learning and gathering experience with web and mobile dev.
 
 ## Hi there 👋
 I'm Remi.
-I currently focus on having fun **learning web/mobile dev** and building small useful apps. 
+- I’m learning web/mobile development by building small, practical apps.
+- **Focus:** building simple, useful apps with clean structure and offline-first thinking
 
-- **Currently working on:**
+- **Main Project:**
   
   [Relay](https://github.com/RemiSlanina/relay) (communication cards for nonverbal situations, offline-first WIP)
 
-- **Small Games/Apps:**
+- **Side Projects:**
   
   [Base Blocks](https://base-blocks.vercel.app/) (educational game for number-base conversion WIP)
   
@@ -63,7 +64,7 @@ I currently focus on having fun **learning web/mobile dev** and building small u
 - **Learning:** Python, React/React Native, Java (revisiting), Algorithms, ...
 - **Familiar With:** JavaScript, HTML/CSS, Open-Source Tools
 - **Interests:** Algorithms, open-source design, and apps with social impact.
-- **Open to:** Collaborations, internships, junior dev roles, or feedback.
+- **Open to:** Junior developer roles, internships, or small project collaborations
 - **Contact:** remislanina@gmail.com
 - **Goal:** Continue with projects, and transition into a junior dev or internship role where I can grow and contribute.
 
