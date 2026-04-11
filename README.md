@@ -49,11 +49,11 @@ I'm Remi.
 
 - **Main Project:**
   
-  [Relay](https://github.com/RemiSlanina/relay) (communication cards for nonverbal situations, offline-first WIP)
+  [Relay](https://github.com/RemiSlanina/relay) – React Native, offline-first storage  (communication cards for nonverbal situations WIP)
 
 - **Side Projects:**
   
-  [Base Blocks](https://base-blocks.vercel.app/) (educational game for number-base conversion WIP)
+  [Base Blocks](https://base-blocks.vercel.app/) – JavaScript, logic-focused gameplay 
   
   [Memory Game](https://memory-game-chi-tawny.vercel.app/) (small memory demo) 
   
