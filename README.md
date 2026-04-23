@@ -35,6 +35,10 @@ I currently focus on learning and gathering experience with web and mobile dev.
 - **Fun Fact:** I also do illustrations, mostly with open-source design tools.
 - **Contact:** remislanina@gmail.com
 
+- **Interests:** Algorithms, open-source design, and apps with social impact
+- **Open to:** Junior developer roles, internships, or small project collaborations
+- **Goal:** Continue with projects, and transition into a junior dev or internship role where I can grow and contribute.
+
 -->
 
 
@@ -44,18 +48,16 @@ I currently focus on learning and gathering experience with web and mobile dev.
 
 ## Hi there 👋
 I'm Remi.
-- I’m learning web/mobile development by building small, practical apps.
+- I’m learning web development by building small, practical apps.
 - **Focus:** building simple, useful apps with clean structure and offline-first thinking
 
-- **Main Project:**
+- **Current Projects:**
   
-  [Relay](https://github.com/RemiSlanina/relay) – React Native, offline-first storage  (communication cards for nonverbal situations WIP)
+  [Base Blocks](https://base-blocks.vercel.app/) – JavaScript, logic-focused gameplay (WIP) 
+  
+  [Memory Game](https://memory-game-chi-tawny.vercel.app/) (small memory demo)
 
-- **Side Projects:**
-  
-  [Base Blocks](https://base-blocks.vercel.app/) – JavaScript, logic-focused gameplay 
-  
-  [Memory Game](https://memory-game-chi-tawny.vercel.app/) (small memory demo) 
+  [Relay](https://github.com/RemiSlanina/relay) – React Native, offline-first storage  (WIP communication cards for nonverbal situations)
   
   [Purr-Spective: Snarky code reviews](https://remislanina.github.io/purr-spective/) (snarky code reviews) 
   
@@ -63,10 +65,8 @@ I'm Remi.
 
 - **Learning:** Python, React/React Native, Java (revisiting), Algorithms, ...
 - **Familiar With:** JavaScript, HTML/CSS, Open-Source Tools
-- **Interests:** Algorithms, open-source design, and apps with social impact.
-- **Open to:** Junior developer roles, internships, or small project collaborations
 - **Contact:** remislanina@gmail.com
-- **Goal:** Continue with projects, and transition into a junior dev or internship role where I can grow and contribute.
+- **Goal:** Continue with projects, and transition into an internship role.
 
 
 
