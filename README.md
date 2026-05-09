@@ -39,12 +39,7 @@ I currently focus on learning and gathering experience with web and mobile dev.
 - **Open to:** Junior developer roles, internships, or small project collaborations
 - **Goal:** Continue with projects, and transition into a junior dev or internship role where I can grow and contribute.
 
--->
-
-
-
-
-
+------
 
 ## Hi there 👋
 I'm Remi.
@@ -69,4 +64,43 @@ I'm Remi.
 - **Goal:** Continue with projects, and transition into an internship role.
 
 
+-->
 
+
+
+
+
+
+# Hi there 👋
+I'm Remi.
+
+I’m learning software development by building small, practical web and app projects with a focus on usability, accessibility, and clean structure.
+
+## Current Focus
+
+* C# / .NET / Blazor
+* JavaScript / React / React Native
+* Offline-first and accessibility-oriented applications
+
+## Projects
+
+* Clean JSON App (Blazor/.NET) – JSON restructuring and local storage persistence
+* Blazor To-Do App (Blazor/.NET) – CRUD functionality and state management
+* Base Blocks – educational number systems game (JavaScript)
+* Relay – communication app for nonverbal situations (React Native, WIP)
+
+## Currently Learning
+
+* Blazor / ASP.NET
+* Algorithms and data structures
+* Full-stack development concepts
+
+## Live Demos 
+
+  [Base Blocks](https://base-blocks.vercel.app/) 
+  
+  [Memory Game](https://memory-game-chi-tawny.vercel.app/) 
+  
+  [Purr-Spective: Snarky code reviews](https://remislanina.github.io/purr-spective/) 
+  
+  [Odds/Evens Game](https://test-sandy-one-88.vercel.app/) 
