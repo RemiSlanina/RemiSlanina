@@ -74,26 +74,36 @@ I'm Remi.
 # Hi there 👋
 I'm Remi.
 
-I’m learning software development by building small, practical web and app projects with a focus on usability, accessibility, and clean structure.
+I'm a self-taught software developer building practical projects while studying computer science through distance learning.
 
-## Current Focus
+My interests include web development, data processing, accessibility, usability, and software that helps people solve real-world problems.
 
-* C# / .NET / Blazor
-* JavaScript / React / React Native
-* Offline-first and accessibility-oriented applications
+### Technologies
 
-## Projects
+C#, .NET, Blazor, Java, JavaScript, React, React Native, Python, SQL, Git
 
+### Recent Projects
+
+* Patient Record Validator (Java) – validation and processing of patient record JSON data
 * Clean JSON App (Blazor/.NET) – JSON restructuring and local storage persistence
 * Blazor To-Do App (Blazor/.NET) – CRUD functionality and state management
 * Base Blocks – educational number systems game (JavaScript)
 * Relay – communication app for nonverbal situations (React Native, WIP)
 
-## Currently Learning
+### Currently Exploring
 
-* Blazor / ASP.NET
+* Backend development
+* Databases and SQL
 * Algorithms and data structures
-* Full-stack development concepts
+* Software architecture and design
+
+### Live Demos
+
+* Base Blocks
+* Memory Game
+* Purr-Spective: Snarky Code Reviews
+* Odds/Evens Game
+
 
 ## Live Demos 
 
