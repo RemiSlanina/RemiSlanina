@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 I'm Remi, a self-taught software developer building practical projects while exploring different areas of software engineering.
 
-I enjoy backend development, mobile apps, databases, accessibility, and creating software that solves real-world problems.
+I enjoy frontend and backend development, mobile apps, databases, accessibility, and creating software that solves real-world problems.
 
 ### Tech Stack
 
