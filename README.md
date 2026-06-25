@@ -40,6 +40,4 @@ I enjoy frontend and backend development, mobile apps, databases, accessibility,
   
   [Memory Game](https://memory-game-chi-tawny.vercel.app/) 
   
-  [Purr-Spective: Snarky code reviews](https://remislanina.github.io/purr-spective/) 
-  
   [Odds/Evens Game](https://test-sandy-one-88.vercel.app/) 
