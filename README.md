@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-I'm Remi, a self-taught software developer building practical projects while exploring different areas of software engineering.
+I'm Remi, a self-taught software developer building practical projects while exploring backend, frontend and mobile development.
 
 I enjoy frontend and backend development, mobile apps, databases, accessibility, and creating software that solves real-world problems.
 
 ### Tech Stack
 
-**Languages:** Python, TypeScript, JavaScript, Java, C#, PHP, SQL
+**Languages:** TypeScript, JavaScript, Java, C#, PHP, Python, SQL
 
-**Frameworks & Technologies:** FastAPI, React Native, React, Blazor/.NET, PostgreSQL, Git
+**Frameworks & Technologies:** FastAPI, React Native, Blazor/.NET, SQLite, MySQL, PostgreSQL, Git
 
 ### Live Demos
 
